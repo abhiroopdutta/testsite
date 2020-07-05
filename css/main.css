@@ -5,7 +5,9 @@ body {
 }
 
 audio{
+    padding : 0.4em;
     max-width: 100%;
+    filter: invert(80%) contrast(115%)
     
 }
 
